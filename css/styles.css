@@ -10,3 +10,8 @@ h1{
 h3{
   text-align: center;
 }
+.forms{
+  text-align: center;
+  background-color: pink;
+  border: 2px;
+}
