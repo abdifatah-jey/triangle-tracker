@@ -2,6 +2,8 @@ body{
 background-image: url("sky.jpg");
 background-size: cover;
 background-repeat: no-repeat;
+background-color: lightblue;
+padding: 10px;
 }
 h1{
   text-align: center;
@@ -14,4 +16,11 @@ h3{
   text-align: center;
   background-color: pink;
   border: 2px;
+}
+.p{
+  border-style: dotted;
+  border-width: medium;
+}
+strong{
+  background-color: yellow;
 }
