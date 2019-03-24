@@ -1,5 +1,5 @@
 body{
-background-image: url("sky.jpg");
+background-image: url("wal/wal.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 background-color: lightblue;
@@ -23,4 +23,7 @@ h3{
 }
 strong{
   background-color: yellow;
+}
+h5{
+  text-decoration-style: double;
 }
