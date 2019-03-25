@@ -9,7 +9,6 @@
    </head>
       <body>
          <script src="js/script.js"></script>
-        <p><a href="home.html">HOME</a></p>
         <p><a href="aboutme.html">ABOUT ME</a></p>
         <p><a href="contact.html">CONTACTS</a></p>
 
@@ -20,11 +19,11 @@
 
           <h3>check the types of triangle</h3>
 
-             <p><span>enter 1st number:</span><input type="text" side1="enter 1st number value" id="1st value"></p>
-             <p><span>enter 2nd number:</span><input type="text" side2="enter 2nd number" id="2nd value"></p>
-             <p><span>enter 3rd number:</span><input type="text" side3="enter 3rd" id="3rd value"></p>
+             <p><span>enter 1st number:</span><input type="text" side1="enter 1st number value" id="a"></p>
+             <p><span>enter 2nd number:</span><input type="text" side2="enter 2nd number" id="b"></p>
+             <p><span>enter 3rd number:</span><input type="text" side3="enter 3rd" id="c"></p>
 
-             <button type="button" name="button" onclick="tracker()">submit</button>
+             <button type="button" name="button" onclick="check(parseFloat(document.getElementById('a').value),parseFloat(document.getElementById('b').value),parseFloat(document.getElementById('c').value))">submit</button>
 
 
            </div>

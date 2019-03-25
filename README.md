@@ -11,7 +11,7 @@ Technologies Used
 JavaScript, Html, Css
 
 Project Setup Installation
-You can get it on git-hub. From the repository, click + in the global sidebar and select Clone this repository under and get to work. Copy the https. From terminal use $ git clone https://github.com/vanmo9/Triangle-tracker.git
+You can get it on git-hub. From the repository, click + in the global sidebar and select Clone this repository under and get to work. Copy the https. From terminal use $ git clone https://github.com/abdifatah-jey/triangle-tracker.git
 
 BDD
 The user fills in one or two fields only --no answer --unless the user fills all the fields.
